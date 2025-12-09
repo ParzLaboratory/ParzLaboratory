@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ParzLaboratory (Mohammed Parvez)
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Full Stack Development
+- 💞️ I’m looking to collaborate on New Ideas
 - 📫 reach me via parzlaboratory@gmail.com
 
 <!---
